@@ -1,0 +1,11 @@
+F:\Thrift\ThriftDemo\ThriftClient\bin\Debug\ThriftClient.exe.config
+F:\Thrift\ThriftDemo\ThriftClient\bin\Debug\ThriftClient.exe
+F:\Thrift\ThriftDemo\ThriftClient\bin\Debug\ThriftClient.pdb
+F:\Thrift\ThriftDemo\ThriftClient\bin\Debug\Thrift45.dll
+F:\Thrift\ThriftDemo\ThriftClient\bin\Debug\ThriftClassLibrary.dll
+F:\Thrift\ThriftDemo\ThriftClient\bin\Debug\ThriftClassLibrary.pdb
+F:\Thrift\ThriftDemo\ThriftClient\obj\Debug\ThriftClient.csprojAssemblyReference.cache
+F:\Thrift\ThriftDemo\ThriftClient\obj\Debug\ThriftClient.csproj.CoreCompileInputs.cache
+F:\Thrift\ThriftDemo\ThriftClient\obj\Debug\ThriftClient.csproj.CopyComplete
+F:\Thrift\ThriftDemo\ThriftClient\obj\Debug\ThriftClient.exe
+F:\Thrift\ThriftDemo\ThriftClient\obj\Debug\ThriftClient.pdb
